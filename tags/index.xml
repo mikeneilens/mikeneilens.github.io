@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Test site</title>
+    <title>Tags on Demo site</title>
     <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Test site</description>
+    <description>Recent content in Tags on Demo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 May 2020 20:57:32 +0100</lastBuildDate>
@@ -12,11 +12,47 @@
     
     
     <item>
+      <title>Analysis</title>
+      <link>http://example.org/tags/analysis/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCP</title>
+      <link>http://example.org/tags/gcp/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/tags/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QA</title>
       <link>http://example.org/tags/qa/</link>
       <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
       
       <guid>http://example.org/tags/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>http://example.org/tags/refactoring/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/tags/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>http://example.org/tags/kotlin/</link>
+      <pubDate>Mon, 04 May 2020 21:28:55 +0100</pubDate>
+      
+      <guid>http://example.org/tags/kotlin/</guid>
       <description></description>
     </item>
     
@@ -53,15 +89,6 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>http://example.org/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/go/</guid>
       <description></description>
     </item>
     

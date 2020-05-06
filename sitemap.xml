@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-05-06T18:41:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-05-06T18:41:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/analysis/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/coding-challenge/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/gcp/</loc>
     <lastmod>2020-05-05T20:57:32+01:00</lastmod>
   </url>
   
@@ -18,6 +43,16 @@
   </url>
   
   <url>
+    <loc>http://example.org/tags/refactoring/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/refactoring-2nd-edition/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/tags/</loc>
     <lastmod>2020-05-05T20:57:32+01:00</lastmod>
   </url>
@@ -28,13 +63,28 @@
   </url>
   
   <url>
+    <loc>http://example.org/post/training2/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/training3/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/post/anotherpost/</loc>
     <lastmod>2020-05-05T20:52:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/test/</loc>
-    <lastmod>2020-05-05T20:52:30+01:00</lastmod>
+    <loc>http://example.org/tags/kotlin/</loc>
+    <lastmod>2020-05-04T21:28:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/training4/</loc>
+    <lastmod>2020-05-04T21:28:55+01:00</lastmod>
   </url>
   
   <url>
@@ -68,12 +118,27 @@
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://example.org/categories/analysis/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://example.org/categories/communities/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/dev/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/qa/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/skills/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +159,6 @@
   
   <url>
     <loc>http://example.org/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -125,11 +185,6 @@
   <url>
     <loc>http://example.org/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
