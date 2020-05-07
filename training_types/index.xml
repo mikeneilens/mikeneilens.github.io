@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on Demo site</title>
+    <link>http://example.org/training_types/</link>
+    <description>Recent content in Training on Demo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/training_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Technology Fluency</title>
+      <link>http://example.org/training_types/business-technology-fluency/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/training_types/business-technology-fluency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Platforms</title>
+      <link>http://example.org/training_types/cloud-platforms/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/training_types/cloud-platforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>http://example.org/training_types/testing/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/training_types/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming languages</title>
+      <link>http://example.org/training_types/programming-languages/</link>
+      <pubDate>Mon, 04 May 2020 21:28:55 +0100</pubDate>
+      
+      <guid>http://example.org/training_types/programming-languages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

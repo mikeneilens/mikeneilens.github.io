@@ -11,5 +11,32 @@
 	<atom:link href="http://example.org/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Analysis Stuff</title>
+      <link>http://example.org/post/analysis_stuff/</link>
+      <pubDate>Thu, 07 May 2020 14:05:48 +0100</pubDate>
+      
+      <guid>http://example.org/post/analysis_stuff/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Training about analysis</title>
+      <link>http://example.org/post/analysis-training/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/post/analysis-training/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Training about analysis vol2</title>
+      <link>http://example.org/post/analysis-training2/</link>
+      <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
+      
+      <guid>http://example.org/post/analysis-training2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
   </channel>
 </rss>

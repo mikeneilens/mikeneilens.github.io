@@ -77,7 +77,7 @@
 			</a>
 		</li>
 		<li class="menu__item">
-			<a class="menu__link" href="/categories/training/">
+			<a class="menu__link" href="/training_types/">
 				
 				<span class="menu__text">Training</span>
 				
@@ -95,6 +95,41 @@
 	<header class="main__header">
 		<h1 class="main__title">Posts</h1>
 	</header><article class="list__item post">
+	<header class="list__header">
+		<h3 class="list__title post__title ">
+			<a href="/post/creating-a-new-theme/" rel="bookmark">
+			Creating a New Theme
+			</a>
+		</h3>
+		
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
+We&rsquo;ll start with creating a new site with a very basic template.
+	</div>
+</article><article class="list__item post">
+	<figure class="list__thumbnail">
+		<a href="http://example.org/post/goisforlovers/">
+			<img src="/images.svg" alt="(Hu)go Template Primer" />
+		</a>
+	</figure>
+	<header class="list__header">
+		<h3 class="list__title post__title ">
+			<a href="/post/goisforlovers/" rel="bookmark">
+			(Hu)go Template Primer
+			</a>
+		</h3>
+		
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		<p>Hugo uses the excellent <a href="https://golang.org/">Go</a> <a href="https://golang.org/pkg/html/template/">html/template</a> library for
+its template engine. It is an extremely lightweight engine that provides a very
+small amount of logic. In our experience that it is just the right amount of
+logic to be able to create a good static website. If you have used other
+template systems from different languages or frameworks you will find a lot of
+similarities in Go templates.</p>
+	</div>
+</article><article class="list__item post">
 	<header class="list__header">
 		<h3 class="list__title post__title ">
 			<a href="/post/hugoisforlovers/" rel="bookmark">
@@ -134,16 +169,16 @@ Follow the following steps:
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/analysis_stuff/">Analysis Stuff</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/coding-challenge/">Coding challenge community</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/training-about-gcp/">GCP Training</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/refactoring-2nd-edition/">Refactoring 2nd Edition</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/training/">Training topic 1-1</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/training2/">Training topic 1-2</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/training3/">Training topic 1-3</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/analysis-training/">Training about analysis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/analysis-training2/">Training about analysis vol2</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/testing-training/">Training about testing</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/anotherpost/">Anotherpost</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/training4/">Training4</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/kotlin-training/">Kotlin Training</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/basic-elements/">Basic HTML Elements</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/creating-a-new-theme/">Creating a New Theme</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/goisforlovers/">(Hu)go Template Primer</a></li>
 		</ul>
 	</div>
 </div>
@@ -151,6 +186,9 @@ Follow the following steps:
 	<h4 class="widget__title">Categories</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/analysis/">Analysis</a>
+			</li>
 			<li class="widget__item">
 				<a class="widget__link" href="/categories/communities/">Communities</a>
 			</li>

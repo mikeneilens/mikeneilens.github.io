@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Training topic 1-1</title>
-      <link>http://example.org/post/training/</link>
+      <title>Training about testing</title>
+      <link>http://example.org/post/testing-training/</link>
       <pubDate>Tue, 05 May 2020 20:57:32 +0100</pubDate>
       
-      <guid>http://example.org/post/training/</guid>
+      <guid>http://example.org/post/testing-training/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
     </item>
     

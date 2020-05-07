@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/post/analysis_stuff/</loc>
+    <lastmod>2020-05-07T14:05:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-05-07T14:05:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2020-05-07T14:05:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/about/</loc>
     <lastmod>2020-05-06T18:41:26+01:00</lastmod>
   </url>
@@ -18,7 +33,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/training_types/business-technology-fluency/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/training_types/cloud-platforms/</loc>
     <lastmod>2020-05-05T20:57:32+01:00</lastmod>
   </url>
   
@@ -33,7 +53,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://example.org/post/training-about-gcp/</loc>
     <lastmod>2020-05-05T20:57:32+01:00</lastmod>
   </url>
   
@@ -58,17 +78,22 @@
   </url>
   
   <url>
-    <loc>http://example.org/post/training/</loc>
+    <loc>http://example.org/training_types/testing/</loc>
     <lastmod>2020-05-05T20:57:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/training2/</loc>
+    <loc>http://example.org/post/analysis-training/</loc>
     <lastmod>2020-05-05T20:57:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/training3/</loc>
+    <loc>http://example.org/post/analysis-training2/</loc>
+    <lastmod>2020-05-05T20:57:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/testing-training/</loc>
     <lastmod>2020-05-05T20:57:32+01:00</lastmod>
   </url>
   
@@ -83,7 +108,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/post/training4/</loc>
+    <loc>http://example.org/post/kotlin-training/</loc>
+    <lastmod>2020-05-04T21:28:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/training_types/programming-languages/</loc>
     <lastmod>2020-05-04T21:28:55+01:00</lastmod>
   </url>
   
@@ -144,6 +174,11 @@
   
   <url>
     <loc>http://example.org/categories/training/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/training_types/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
